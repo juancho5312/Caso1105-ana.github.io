@@ -1,0 +1,1829 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#e25041",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#282828",
+        "#2e2e2e"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 93,
+    "versionPublish": "4.4.0",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "historia.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Historia",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/222-1200x630.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Caso 1105: Ana",
+          "caption": "<p>Camina de un lado a otro, sus pasos  son más fuertes, sus zapatos rayan el piso, el desespero nuevamente llegó. Sus manos son inquietas, recoge y suelta su cabello, sus dedos traquean; su maquillaje se escurre por sus pómulos junto con sus lágrimas, entre más suena el timbre más es el temor. – ¿Qué voy hacer?, ¿Qué le digo? ¿Y si salgo por la ventana? Otra vez lo hice.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1y"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Ana, ana, anaaa, yo sé que estás ahí, no te escondas te acabo de ver entrar ¿crees que soy estúpido? Abre la puerta o la tumbo Ana.\n</p><p>-Lárgate no quiero verte, déjame en paz Julio, no llegaron a tiempo.\n</p><p>-No fue nuestra culpa, ¿Por qué no pudiste esperar 30 minutos? ¿Acaso si te gusta? si querías hacerlo, estoy cansado, he llegado a mi límite.</p><p><br></p><p>\n</p><p></p><p>\nDeja caer su cuerpo sobre la cama, sus lágrimas son más abundantes, sus gemidos más intensos y la culpa por sus acciones se clavan en su cabeza como martillazos, los remordimientos de cada viernes son más intensos. -¿Cuándo Dios, cuando podré parar esto?\n</p><p>Al día siguiente observa su celular, tenía 20 llamadas de su amiga, mensajes y audios.\n</p><p></p><p>\n</p><p><br></p><p>-Hola Susi</p><p>\n</p><p>-Ana por Dios amiga te he estado llamando, no podía del desespero, de la angustia, te queríamos explicar. Dime que solo saliste\n</p><p>-No amiga, otra vez lo hice\n</p><p>-¿Hasta cuándo Ana?, (llanto), no sabes el daño que te haces amiga, me duele, no sé qué más hacer para ayudarte, hemos intentado de todo, me duele Ana.\n</p><p>-Perdóname amiga, hablamos luego, ahora solo quiero desaparecer de la tierra.\n</p><p>-Por favor no digas eso, estaré pendiente.</p><p><br></p><p>\n</p><p></p><p>\nSe va a la cocina, su dolor no cesa y sus lágrimas tampoco, sirve comida y pocos segundos después la estrella en la pared. Entre llantos y sueño pasa su fin de semana en su casa, el día lunes se arregla para ir a la universidad, cruza la puerta de su casa y deja salir un fuerte suspiro, con una gota de alivio, una nueva semana empieza y quizás sea la semana del cambio para su vida, donde pueda dejar esa oscuridad y esas adicciones que la están consumiendo.</p><p><br></p><p><br></p><p>\n</p><p></p><p>\nSus padres murieron cuando ella apenas era una niña y fue criada en un orfanato, donde los maltratos eran frecuentes, cuando por fin cumplió los 18 años pudo salir y fue ahí cuando encontró a su tío Javier, quien no estuvo ni está con ella nunca, pero  subsidia la universidad, alimentación y vivienda junto con todo lo que requiere académicamente, que es bastante, porque la Autónoma de Occidente  es costosa.\n</p><p></p><p>\n</p><p><br></p><p><br></p><p>Las clases empezaron y Ana solo ve que el profesor mueve la boca, no escucha nada, sus pensamientos están en la noche del viernes, la culpa la atormenta.&nbsp; \n</p><p></p><p>\n-oye, oye\n</p><p>-En serio lo siento Lili\n</p><p>-Lo que hiciste el viernes no se queda así, eres una perra.\n</p><p>-No sabía que era tu novio, perdóname\n</p><p>-¿Perdóname? acostarte con mi novio, otra vez, otra vez lo hiciste, no te basto con Paulo.  Eres una desgraciada, ¡¿no es suficiente haberte acostado con media universidad?!\n</p><p>-Por favor baja la voz\n</p><p>-Que todo el mundo se entere de la clase de porquería que eres. Eres una maldita ninfómana.\n</p><p>-Lili, por favor, por la amistad que un día tuvimos\n</p><p>-¿Qué dices? Fue mi peor error, haberte tenido como amiga por más de dos años, no tienes vergüenza, ¿acaso no te cansas de acostarte con mis novios?\n</p><p></p><p>\nSale corriendo del salón, unos brazos la cubren y ella solamente se suelta a llorar, la abrazó más fuerte y sus manos acarician su cabeza y limpian sus lágrimas. </p><p>–Te amo Ana y sabes que siempre estaré aquí, perdóname por descontrolarme el viernes, solo que saber que lo hiciste de nuevo y no estuve ahí para ayudarte, me enojo mucho conmigo mismo.\n</p><p></p><p>\n-Perdóname tú, es tan estúpido decirlo otra vez, cuando lo repito cada semana.</p><p><br></p><p><br></p><p>\n</p><p></p><p>\nAna tiene fuertes problemas sexuales, es adicta al sexo y los viernes su cuerpo explota y no controla sus hormonas, por lo que tiene sexo con el primer hombre que mira, no importa la edad, si es feo o lindo, ella solo quiere sexo. Su novio Julio sabe, entiende que es una enfermedad y quiere ayudarla a terminar con su dolor. Su amor por ella es más grande que el que siente por él mismo, por eso quiere que Ana encuentre esa luz y esa paz, y él está dispuesto a eso, al precio que sea, solo le importa el descanso y la tranquilidad de Ana. El amor que han construido por más de 1 año es incondicional y real y no quiere pensar en los medios para terminar con la enfermedad de Ana.</p><p><br></p><p><br></p><p>\n</p><p></p><p>\nHa perdido amigas por su enfermedad, porque en sus  momentos de crisis ella no respeta nada, solo quiere saciar su sed, la amistad que más le ha dolido perder, ha sido la de Lili, ella siempre estuvo ahí, conoce todos sus secretos, siempre apoyándola, ayudándola, hasta el día que en una fiesta de Halloween Ana tuvo sexo con Paulo el novio de Lili en ese momento. Lili nunca la perdonó, y sus sentimientos hacia Ana son de dolor, rabia y rencor por haberse acostado con Paulo, pero lo que más le duele a Lili es que Ana por sus malas acciones terminara con una amistad tan pura e incondicional. Lili no ha sanado sus heridas porque tienen muchos sentimientos encontrados hacia Ana: rabia, dolor, afecto, compasión y quizás aun la quiere.&nbsp; \n</p><p>Lili siempre tuvo un carácter muy fuerte, es malgeniada, peleona, grosera y muy rencorosa, pero adoraba a Ana, ella sacaba su mejor versión.</p><p><br></p><p><br></p><p>\n</p><p></p><p>\nSu novio la suelta, le limpia la cara y le da un suave beso en la frente. Ana entra nuevamente al  salón y en la esquina está Carmen, mirándola con ojos de fuego como siempre, Carmen le tienen envidia  por la agradable y armónica apariencia con la que cuenta Ana. Carmen también es linda pero es una joven llena de complejos, ha mostrado su odio por Ana a casi todo el salón con sus comentarios venenosos que dejan ver su profunda envidia. Carmen cada que la mira solo quiere fulminarla con su mirada, solo quiere que Ana desaparezca de su vista, no soporta su presencia. Para las amigas de Carmen es extraño ese sentimiento de ella hacia Ana porque cada momento están elogiando las cualidades y virtudes de Carmen: como una persona cariñosa, solidaria, amorosa, etc.&nbsp;\n</p><p></p><p>\n-No le hagas caso amiga, siéntate aquí, esa es una estúpida acomplejada.\n</p><p>- Susi, me alegra tanto verte, pensé que no venias a clases y mi depresión se hizo más fuerte.\n</p><p>-sabía que hoy más que nunca me necesitabas Ana.</p><p><br></p><p>\n</p><p></p><p>\nSusi acaricia a su amiga y le dice palabras que reconfortan a Ana. Son excelentes amigas hace un año, justo cuando empezó con Julio, Susi se hizo muy buena amiga de Ana, porque Susi ha sido la mejor amiga de Julio por muchos años. Desde entonces Ana y Susi comparten todo, ella también conoce su enfermedad y día a día busca la manera de ayudarle a superarla.</p><p><br></p><p>\n</p><p></p><p>\n-el viernes me quedé esperándolos, pero nunca llegaron, no resistí.\n</p><p>-Amiga Julio y yo estábamos en camino y mi hermanita la de 2 añitos sufrió un accidente, mi mamá me llamó de improviso, muy angustiada y desesperada; tuvimos que desviarnos un poco, Julio me vio tan nerviosa que no quiso que fuera sola, no pensábamos demorarnos, solo eran 10 minutos tarde. Julio quiso coger la panamericana y yo de terca le dije otra ruta, lo siento amiga, lo hice perder y a la final nunca pudimos llegar a mi casa, yo llame a mi madre y ya estaba más tranquila, entonces inmediatamente retornamos para ir a tu casa. Perdóname.</p><p><br></p><p>\n</p><p></p><p>\n-Susi no es tu culpa, ni la de Julio, sé que solo tratan de ayudarme, y entiendo que ustedes tienen otras prioridades, como la de la Universidad, esas materias que matricularon juntos, les quita mucho tiempo.\n</p><p>-amiga tu eres nuestra prioridad ahora.\n</p><p></p><p>\nSusi y Julio cada viernes tratan de acompañar a Ana para controlarla, hacerla olvidar, entretenerla con películas, juegos, etc. Pero hay viernes en los que deben entregar trabajos, o tienen cuestiones familiares y es ahí cuando Ana está sola y no controla su enfermedad.\n</p><p></p><p>\nLas clases se acabaron y Ana se dirige a su casa, realiza trabajos de la Universidad, aunque esté ocupada, su mente se desvía para pensar en el próximo viernes, en que no resistirá, llora de nuevo, ella solo quiere acabar con esa vida, solo quiere ser una mujer normal, quiere estar tranquila y su enfermedad parece nunca desaparecer.</p><p><br></p><p><br></p><p>\n</p><p></p><p>\nLlega la noche, fría, vientos fuertes, las ventanas suenan, las cortinas se mueven, Ana apaga la luz y duerme profundamente, -esto acabará.</p><p><br></p><p>\n</p><p></p><p>\nHay mucha gente alrededor, caras de asombro, comentarios disimulados; se escuchan llantos de una muchacha, -porque, porque Dios. Un joven llora sigilosamente, sus pómulos están rojos y la voz no le sale, la tiene en sus brazos. La ambulancia ha llegado a la Universidad, los paramédicos corren y la suben a una camilla, la tapan completamente y dicen</p><p> –Ana ha muerto.\n</p><p></p><p>\n-Descubriremos si fue un suicidio o un asesinato, déjala ir Julio, descansará por siempre hijo.\n</p><p>.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1z"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/horror-hd-desktop-background-wallpaper-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/caso1105_ana\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Caso1105.ana/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCcMbT9HZkg92wzr5raCaJDQ?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/caso1105.ana/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-2e"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-1v",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1w"
+        }
+      ]
+    },
+    "ana.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Ana",
+        "order": 3
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-q",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ana.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ana",
+          "text": "Una chica dulce y tierna, que con sus 20 años de edad conquista a cualquier hombre que le pase por su lado. Mide 1.60mts, su cabello es como una cascada de luz, muy largo y radiante. La cara refleja su ser y con esa sonrisa es la muerte de todo hombre.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Tiene buen cuerpo debido a su pasión por los deportes.\n</p><p>Apenas acaba de empezar tercer semestre en la universidad y es muy buena estudiante y esmerada por sacar las mejores notas del salón.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Le encanta irse muy provocativa a la universidad, siempre con blusas cortas, pantalones cortos, faldas y shorts. También le gusta estar oliendo muy rico y estar siempre maquillada</span><br></p><p>\n</p><p>Debido a su gran corazón, se ha ganado la amistad de varias chicas de su salón; Susi y Lily, quienes junto a ella han compartido varios años de amistad. Sin olvidar por supuesto a su querido novio Julio, quien es el amor eterno de ana y llevan varios años juntos. \n</p><p>\n</p><p>Sin embargo, tanta perfección no podría ser tan real. Ana sufre de serios problemas sexuales, es ninfomana a niveles extremadamente descontrolados. Ama con pasión el sexo, lo único que la detiene son sus amigas y novio, quienes toda la semana están con ella; pero apenas llega el fin de semana, (para ser más precisos), los viernes, su cuerpo explota en una armonía de placer y lujuria desenfrenados que lo único que le importa es tener sexo con quien fuera de inmediato. \n</p><p>Este problema o “enfermedad” la ha llevado a tener serios problemas con diferentes personas, incluso con ella misma.</p><p><br></p><p> \n</p><p>Cada vez que su lujuria se apodera de ella, hace cosas que en su sano juicio no haría, e inmediatamente vuelve a sus cabales, sufre de un ataque de depresión y tristeza que nadie sabe, solo ella y su diario. A escondidas y llorando en su baño, se hace pequeños cortes con su cuchilla en sus brazos y lengua, de esta manera se asegura que nadie pueda ver sus marcas y ocultar tanto dolor que lleva.</p><p><br></p><p> \n</p><p>\n</p><p>Y vuelve a empezar su semana, después de tanto dolor y sufrimiento en el fin de semana, cada día con su máscara de felicidad y niña alegre, sin que nadie note su profundo dolor y lado horrible que tiene ella. \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-12"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crime-scene-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Pronto descubrirás más",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2k"
+        }
+      ]
+    },
+    "susi.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Susi",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/susy-2-1280x1280.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Susi",
+          "text": "Es la mejor amiga de Ana, no hay nada de Ana que no sepa Susi (o al menos ella cree).\nMide 1.66mts, su cabello es bastante largo y es oscuro. Le gusta vestir muy a la moda pero sin necesidad de ser presumida.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-17",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Su personalidad es la más dulce de todas, sobre todo con ana, pues desde un principio que llegaron a la universidad, ambas se hicieron muy amigas; y ahora que Susi sabe del problema que tiene Ana no la quiere soltar ni un segundo. \n</p><p>\n</p><p>Susi y Julio ya se conocían desde antes, por lo que siempre quieren estar juntos ayudando a Ana con su problema. &nbsp;</p><p>Lo que no se sabe es que los sentimientos entre Susi y Julio pueden ser muy grandes y cometer algún error.&nbsp;</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1b"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crime-scene-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Pronto descubrirás más",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-24"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-s",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t"
+        }
+      ]
+    },
+    "lily.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Lily",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/lily-1-1280x1280.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lily",
+          "text": "Una de las mejores amigas de Ana, hasta hace poco. Mide 1.63mts, muy linda, (incluso dicen que es mas linda que Ana). Personalidad única, grandes sentimientos y una amiga como ninguna otra.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1d",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Le gusta vestir siempre con ropa cómoda y sandalias, asiste a clases casi siempre con sacos. \n</p><p>Asiste a clases en el mismo salón que Ana y Carmen, responsable y gran compañera de trabajo. Siempre ordenada y con sus metas claras en su cabeza. \n</p><p>Durante muchos años, ella y Ana han tenido la mejor de las amistades, lily sabe todo sobre Ana, sus secretos, su miedos, sus gustos e incluso su problema sexual. \n</p><p>Lily tiene un carácter muy fuerte, es malgeniada, peleona, grosera y muy rencorosa, pero adora a Ana, ella saca su mejor versión.\n</p><p>Sin embargo, todo eso cambió un día en que ana cometió el peor error de su vida, y lily salió muy lastimada por ese error cometido; Y hasta allí llegó la amistad de ellas 2.\n</p><p>A Lily le duele demasiado haber perdido la amistad con Ana por un error, pero eso no es suficiente para hacer olvidar todo el odio, rencor, maldad y malos pensamientos que tiene hacia Ana. Lili no ha sanado sus heridas porque tiene muchos sentimientos encontrados: rabia, dolor, afecto, compasión y quizás aun la quiere.  \n</p><p>\n</p><p>Cuando ven clases juntas, Lily solo piensa en como Ana pudo haber cometido tan grave error, ni siquiera la quiere volver a ver, pues no ha sido la primera vez que Ana comete el mismo error, cosa que hace que lily tenga más rencor, odio y rabia hacia Ana. \n</p><p>Y lo que es peor, Lily se entera de algo que leyó sobre ana y que ella nunca le contó a lily, de ahí, su vida cambió por completo hacia Ana. \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1e"
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-u",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crime-scene-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Pronto descubrirás más",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-26"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-v"
+        }
+      ]
+    },
+    "julio.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Julio",
+        "order": 6
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-w",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/666-1280x1280.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "<br>Julio",
+          "text": "Un joven cuya sonrisa es el producto de ver todos los días a su amada novia Ana. Es el mejor estudiante en su salón, siempre dedicado y responsable, terminando su quinto semestre en la universidad.\n<br>Es un chico medio alto, mide 1.70mts, cabello corto y es bastante delgado. \n<br>&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1g",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-section-lead B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Su único motivo por el cual siempre va sonriendo donde quiera que vaya es por su novia Ana. siempre romantico y super especial con ella. Todos los días intentan estudiar juntos, incluso cuando es fin de semana. El sabe del problema que sufre su novia ana,siempre tiene que soportar verla irse todo un fin de semana a tener sexo desenfrenado. impotente sin saber que hacer, solo decide acompañarla junto con Susy todos los viernes para que no se deje dominar por su deseo sexual; y solo decirle que él hará hasta lo imposible y necesario para acabar de una vez por todas con el dolor de ella. \n</p><p>\n</p><p><br></p><p>Solo que nadie sabe en realidad la personalidad de Julio, nadie conoce su demencia; Solo Ana, quien como ama demasiado a Julio, no le cuenta nada a nadie, ni a su diario y ni siquiera se molesta con Julio.\n</p><p>\n</p><p>Julio es bastante posesivo y decidido, cuando quiere conseguir algo, lo hace cueste lo que cueste; en varias ocasiones ha tenido problemas con chicos de la universidad por el solo hecho de mirar a ana. Es bastante celoso con ana, sin embargo, nunca le ha tocado un pelo a ella y es bastante caballeroso y lindo con ella. \n</p><p>Personas y amigos quienes conocen a Julio, aveces no apuestan con él porque siempre se sale con las suyas y consigue lo que quiere.</p><p><br></p><p> \n</p><p>\n</p><p>\n</p><p>Cada semana se despierta pensando en su querida novia y como quitarle ese problema de una vez por todas, siempre con su mirada de enamorado y con sus ojos puestos en ella. \n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1h"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crime-scene-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Pronto descubrirás más",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-27"
+        }
+      ]
+    },
+    "carmen.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Carmen",
+        "order": 7
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_anchor": "footer1-y",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/carmen-1-1280x1280.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cármen",
+          "text": "Una Chica cuya presencia casi ni se nota en el salón de clases. Muy callada y reservada. Compañera solo de su grupo de amigas y nadie más. Ve clases en el mismo salón que Ana. Mide 1.65mts, su cabello es medio largo y negro.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1j",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Es una chica que le gusta vestir con todo lo ultimo de moda, ponerse mucho maquillaje en la cara y en los labios, usa zapatos siempre a la moda. \n</p><p>Es buena estudiante, no de las mejores pero sí muy responsable y dedicada. \n</p><p><br></p><p>Las personas la describen como  una chica seria pero buena compañera de clases, ya que ella solo habla con sus demás amigas, así que no se deja ver como es ella realmente. \n</p><p>\n</p><p>Tiene un profundo odio y rencor hacia ana, debido a la personalidad de ella tan amigable, tierna, amada por muchos y ademas, la chica a quien todos los hombres le quieren coquetear. Carmen no soporta ver ni en pintura a Ana, y cada vez que ven clases juntas, sus ojos de odio miran a ana de una forma tan despiadada que las propias amigas se asustan a veces de cómo se comporta carmen, con sus palabras feas y despreciables hacia ana; Algo que es curiosamente y bastantemente raro, porque a cada instante, sus amigas la elogian a ella como una persona bastante alegre, cariñosa,  solidaria y amorosa. \n</p><p>\n</p><p><br></p><p>Todos los días, todas las semanas y en cada clase, ella tiene que soportar la presencia de ana en el salón de clases, lo único que quiere carmen es que ana desaparezca de su vista y nunca más volverla a ver.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1k"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/crime-scene-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Pronto descubrirás más",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-28"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "TELL ME MORE STORIES",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2017 TellMeMoreStories",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-g\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" target=\"_blank\">HISTORIA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PERSONAJES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ana.html\" target=\"_blank\">Ana</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"susy.html#header1-17\" target=\"_blank\">Susy</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lily.html\" target=\"_blank\">Lili</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"julio.html\" target=\"_blank\">Julio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"carmen.html\" target=\"_blank\">Cármen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons2-k\" target=\"_blank\">REDES SOCIALES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html#header1-g",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TELL ME MORE STORIES&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/crack-stone-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "Caso 1105: ANA",
+          "text": "Una estudiante aparece muerta en la entrada de la universidad, todo apunta a que ella decidió suicidarse. Sin embargo, a lo largo de la investigación del caso 1105 aparecen pistas de un posible asesinato. ¿Qué ocurrió realmente con Ana?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page6.html#content5-1y\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER AHORA</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-g",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5017777-human-footprint-in-mud-stock-photo-1300x866.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Cómic",
+          "text": "<p>Espéralo, detalles impactantes que te dejaran con muchas mas preguntas.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/anas-2-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "ana.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/susys-3-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "susy.html#header1-17",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lilis-1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "lily.html#header1-1d",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/julios-1-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "julio.html#header1-1g",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/carmens-600x600.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "carmen.html#header1-1j",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Ana",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Una chica dulce y tierna, que con sus 20 años de edad conquista a cualquier hombre que le pase por su lado, pero un oscuro problema la lleva a cometer errores y a una profunda depresión.&nbsp;",
+          "title2": "Susi",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Es la mejor amiga de Ana, no hay nada de Ana que no sepa Susi.&nbsp;<br>Su personalidad es la más dulce de todas y&nbsp; ahora que Susi sabe del problema que tiene Ana, no la quiere soltar ni un segundo.",
+          "title3": "Lili",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Una de las mejores amigas de Ana, hasta hace poco.<br>Personalidad única, grandes sentimientos y amiga como ninguna otra. Pero el error de Ana hace que ella solo quiera verla humillada y destruida como un dia ella lo estuvo.<br> ",
+          "title4": "Julio",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Un jóven cuya sonrisa es el producto de ver todos los días a su amada novia Ana.<br>Nadie sabe en realidad la personalidad de Julio, nadie conoce su demencia y hará lo necesario para acabar con el dolor de Ana.&nbsp;",
+          "title5": "Cármen",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Una Chica cuya presencia ni se nota en el salón de clases. Muy callada y reservada, Tiene un profundo odio y rencor hacia Ana. lo único que quiere carmen es que ana desaparezca de su vista y nunca más volverla a ver.&nbsp;<br>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"ana.html#header1-10\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS&nbsp;</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"susy.html#header1-17\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"lily.html#header1-1d\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"julio.html#header1-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"carmen.html#header1-1j\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS<br></a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-l",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "14px",
+              "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/horror-hd-desktop-background-wallpaper-1920x1200.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Siguenos&nbsp;",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/caso1105_ana\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Caso1105.ana/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCcMbT9HZkg92wzr5raCaJDQ?view_as=subscriber\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/caso1105.ana/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Suscribete&nbsp;",
+          "subtitle": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "form": {
+            "action": "stellmemore@gmail.com",
+            "alerts": {
+              "success": "Gracias por suscribirte"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Escribe tu correo..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-20"
+        }
+      ]
+    }
+  }
+}
