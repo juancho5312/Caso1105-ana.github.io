@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "historia.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1644,7 +1644,8 @@
               "active": true,
               "link": "ana.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -1721,7 +1722,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"ana.html#header1-10\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS&nbsp;</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"ana.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MÁS&nbsp;</a>",
           "button2": "<a data-app-btn=\"true\" href=\"susi.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
           "button3": "<a data-app-btn=\"true\" href=\"lily.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
           "button4": "<a data-app-btn=\"true\" href=\"julio.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEER MAS</a>",
